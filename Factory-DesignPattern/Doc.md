@@ -6,4 +6,11 @@ When a method returns one of several possible classes that share a common super 
 
 => The class is chosen at run-time
 
+# When we use a Factory Pattern?
+
+- When you don't ahead of time what class object you need.
+- To centralize class selection code.
+- To encapsulate object creation.
+
+=> The Factory Pattern allows you to create objects without specifying the exact class of object that will be created.
 
